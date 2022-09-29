@@ -8,7 +8,7 @@ document.addEventListener('DOMContentLoaded', () => {
   navi.setAttribute('id', 'message')
   navi.setAttribute('class', 'pics')
   // navi.innerText = 'HEY LISTEN!';
-  navi.setAttribute('style', 'border: 3px solid black; margin: auto; height: 200px; width: 400px; text-align: center; padding: 80px; background-image: url("zelda.png")');
+  navi.setAttribute('style', 'border: 3px solid black; margin: auto; height: 200px; width: 400px; text-align: center; padding: 80px; background-image: url("navi.png")');
   document.querySelector('body').appendChild(navi);
   
   // const image = document.createElement('img');
