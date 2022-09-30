@@ -22,6 +22,7 @@ document.addEventListener('DOMContentLoaded', () => {
   button.onclick = function() {
     alert('HEY LISTEN!');
   }
+  button.setAttribute('style', 'padding: 10px 15px; display: inline-block; margin: auto; border: none; background-color: white)');
     
   navi.addEventListener('mouseover', mOver);
   navi.addEventListener('mouseout', mOut);
